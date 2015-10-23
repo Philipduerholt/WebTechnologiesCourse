@@ -1,0 +1,43 @@
+html{
+	height:100%;
+	width:100%;
+	padding:0;
+	margin:0;
+}
+
+
+.header{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+.navigation {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:700px;
+	padding-right:30px;
+    float:left;
+ 
+}
+.content {
+    width:80%;
+    float:left;
+    padding:10px;
+	height: 100%;
+}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+ul{
+  list-style-type:none
+}
+
+.content a{
+	color:#ffb400;
+}
